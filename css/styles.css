@@ -1,0 +1,253 @@
+ul {
+  list-style-type: none;
+}
+.nav-1 {
+  text-decoration: none;
+  position: absolute;
+  width: 45px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+}
+.nav-2 {
+  text-decoration: none;
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  left: 548px;
+  top: 32px;
+}
+.nav-3 {
+  text-decoration: none;
+  position: absolute;
+  width: 64px;
+  height: 16px;
+  left: 670px;
+  top: 32px;
+}
+.head-address-1 {
+  text-decoration: none;
+  position: absolute;
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+}
+.head-address-2 {
+  text-decoration: none;
+  position: absolute;
+  width: 122px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+}
+.link {
+  color: #212121;
+  cursor: pointer;
+}
+button {
+  border-radius: 4px;
+  border: 0;
+  background: #f5f4fa;
+  color: #212121;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+}
+.filtr-button-1 {
+  position: absolute;
+  width: 73px;
+  height: 38px;
+  left: 512px;
+  top: 174px;
+}
+.filtr-button-2 {
+  position: absolute;
+  width: 125px;
+  height: 38px;
+  left: 593px;
+  top: 174px;
+}
+.filtr-button-3 {
+  position: absolute;
+  width: 112px;
+  height: 38px;
+  left: 726px;
+  top: 174px;
+}
+.filtr-button-4 {
+  position: absolute;
+  width: 103px;
+  height: 38px;
+  left: 846px;
+  top: 174px;
+}
+.filtr-button-5 {
+  position: absolute;
+  width: 130px;
+  height: 38px;
+  left: 957px;
+  top: 174px;
+}
+.filter {
+  text-align: center;
+}
+button:hover {
+  background: #2196f3;
+  color: white;
+}
+body {
+  font-family: Roboto;
+  background-color: #e5e5e5;
+}
+.box-1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 262px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.box-2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 262px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.box-3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 262px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.box-4 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 696px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.box-5 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 696px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.box-6 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 696px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.box-7 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 1130px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.box-8 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 1130px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.box-9 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 1130px;
+
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+h3 {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+p {
+  font-size: 16px;
+  color: #757575;
+  letter-spacing: 0.03em;
+}
+
+.logo-top {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  color: #2196f3;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+.footer-logo {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 1688px;
+  color: #2196f3;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+address {
+  font-style: normal;
+}
+.footer-address {
+  color: white;
+  text-decoration: none;
+}
+.footer-contact {
+  color: #ffffff99;
+  text-decoration: none;
+}
+footer {
+  position: absolute;
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 1628px;
+  background: #2f303a;
+}
